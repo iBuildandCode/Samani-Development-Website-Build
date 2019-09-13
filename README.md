@@ -1,2 +1,2 @@
-# Samani-Development-Website-Build
-Official Website For Samani Development
+# SAMANiDEV.COM
+SAMANiDEV.COM Website/WebAPP
